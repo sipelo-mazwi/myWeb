@@ -1,0 +1,42 @@
+.me {
+    float: right;
+    width:250x;
+    height:200px;
+
+}
+.profile {
+    overflow: auto;
+}
+
+.newYork {
+    float: left;
+    width:250x;
+    height:200px;
+}
+.city {
+    overflow: auto;
+}
+
+body {
+    color: white;
+    background-image: url('a.jpg');
+}
+table, tr, th, td {
+    width:30%;
+    border: 1px solid;
+}
+
+.places {
+    overflow: auto;
+}
+
+
+.castel{
+    float: right;
+    width:250x;
+    height:200px;
+}
+ul li {
+    margin: 20px;
+    padding: 2px
+}
