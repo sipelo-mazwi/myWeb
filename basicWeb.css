@@ -9,10 +9,18 @@
 }
 
 .newYork {
+    margin-right: 2px;
+    padding: 10px;
     float: left;
-    width:250x;
+    width:350x;
     height:200px;
 }
+.paragraph {
+    flex: auto;
+    padding-left: 2em;
+    margin: 1em;
+}
+
 .city {
     overflow: auto;
 }
@@ -27,16 +35,57 @@ table, tr, th, td {
 }
 
 .places {
+    float: auto;
     overflow: auto;
 }
 
 
+
+
 .castel{
+    margin: 20px;
     float: right;
-    width:250x;
+    width: 350px;
     height:200px;
 }
+.good {
+    padding-right: 3em;
+    float: auto;
+    overflow: auto;
+}
 ul li {
+    
+    float: auto;
     margin: 20px;
-    padding: 2px
+    padding: 2px;
+    padding-bottom: 1em;
+}
+.par {
+    margin: auto;
+    overflow: auto;
+    margin-right: 2em;
+    float: left;
+    width: 350px;;
+    height:200px;
+}
+.parliment {
+    overflow: auto;
+}
+
+.iziko {
+    overflow: auto;
+}
+.izi {
+    overflow: auto;
+    float: right;
+    width: 350px;
+    height:200px;
+    margin: 20px;
+}
+.underline {
+    text-decoration: underline;
+}
+
+.ko {
+    padding-right: 8em;
 }
